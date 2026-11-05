@@ -243,11 +243,6 @@ The main research components include:
 - Multi-dataset performance evaluation.
 - ESP32-WROOM-32E embedded deployment evaluation.
 
-## 📄 Manuscript
-
-**Title:** GWO-XCGIDS: An Explainable Hybrid CNN–GRU Intrusion Detection Framework for Secure IoMT Networks
-
-**Publication:** Publication details will be updated following acceptance or publication.
 
 ## ✉️ Contact
 
